@@ -1,4 +1,4 @@
-Vishing Competition @ Social Engineering Village 
+# Vishing Competition at SEV
 
 **Overview:**  
 The Vishing Competition at SEV is an individual challenge where participants make live calls to gather information about a designated target, using only the provided information. Competitors aim to extract as much relevant information as possible within a set time frame, testing their social engineering and vishing skills.
@@ -30,11 +30,17 @@ The Vishing Competition at SEV is an individual challenge where participants mak
    - Upon selection, each participant will be assigned a target company for OSINT (Open-Source Intelligence) along with a set of specific objectives and their point values.
 
 2. **OSINT and Pretext Report:**  
-   - Participants will gather OSINT on their target company without directly contacting the target.  
-   - A report detailing objectives, pretext ideas, and a call strategy is required before the live competition. Judges will score these reports.
+   - Participants will gather OSINT on their target company without directly contacting the target and limited time will be given to participants which will be 1 hour. 
 
-3. **Coaching Sessions:**  
-   - Participants will receive dedicated time with coaches to discuss tactics, ask questions, and gain feedback.
+   A report detailing 
+    1. Objectives
+    2. Pretext ideas 
+    3. Call strategy 
+
+   It is required before the live competition. Judges will score these reports. 
+
+3. **Coaching Sessions:**
+   - Participants will receive dedicated time with coaches after their competion discuss tactics, ask questions, and gain feedback for limited will depend on the no of participants.
 
 ---
 
@@ -50,4 +56,4 @@ The Vishing Competition at SEV is an individual challenge where participants mak
 ### Surveys  
 
 - **Pre- and Post-Competition Surveys:**  
-   Participants must complete both pre-competition and post-competition surveys. Failure to complete either survey will result in disqualification.
+    Participants must complete both pre-competition and post-competition surveys. Failure to complete either survey will result in disqualification, this surveys will indicate about thier experience and understanding of what they have learn so far.
